@@ -1,23 +1,23 @@
 ﻿>HSC 
-: "Ecm1", "Colec11", "Des", "Lrat", "Acta2", "Col1a1"
+expressed: "Ecm1", "Colec11", "Des", "Lrat", "Acta2", "Col1a1"
 
 >PF
-: "Mgp", "Mfap4", "Thy1", "Eln"
+expressed: "Mgp", "Mfap4", "Thy1", "Eln"
 
 >EC
-: "Ptprb", "Selenop", "Cldn5", "Pecam1", "Cdh5"
+expressed: "Ptprb", "Selenop", "Cldn5", "Pecam1", "Cdh5"
 
 >Kupffer
-: "Lyz2", "C1qb", "Itgam", "Adgre1"
+expressed: "Lyz2", "C1qb", "Itgam", "Adgre1"
 
 >Chol(Sox9+)
-: "Spp1", "Clu", "Krt19", "Sox9"
+expressed: "Spp1", "Clu", "Krt19", "Sox9"
 
 >Chol(Sox9-)
-: "C3", "Slpi", "Krt19"
+expressed: "C3", "Slpi", "Krt19"
 
 >Hepatocyte
-: "Fabp1", "Apoa2", "Hfn4a", "Cype2a1"
+expressed: "Fabp1", "Apoa2", "Hfn4a", "Cype2a1"
 
 >Leukocyte
-: "Ptprc", "Cd8a", "Cd4", "Siglech", "Irf8"
+expressed: "Ptprc", "Cd8a", "Cd4", "Siglech", "Irf8"
