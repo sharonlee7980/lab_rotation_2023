@@ -1,0 +1,23 @@
+﻿>HSC 
+Expressed: "Ecm1", "Colec11", "Des", "Lrat", "Acta2", "Col1a1"
+
+>PF
+Expressed: "Mgp", "Mfap4", "Thy1", "Eln"
+
+>EC
+Expressed: "Ptprb", "Selenop", "Cldn5", "Pecam1", "Cdh5"
+
+>Kupffer
+Expressed: "Lyz2", "C1qb", "Itgam", "Adgre1"
+
+>Chol(Sox9+)
+Expressed: "Spp1", "Clu", "Krt19", "Sox9"
+
+>Chol(Sox9-)
+Expressed: "C3", "Slpi", "Krt19"
+
+>Hepatocyte
+Expressed: "Fabp1", "Apoa2", "Hfn4a", "Cype2a1"
+
+>Leukocyte
+Expressed: "Ptprc", "Cd8a", "Cd4", "Siglech", "Irf8"
